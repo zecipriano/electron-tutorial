@@ -1,0 +1,8 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Electron tutorial",
+  "main": "main.js",
+  "author": "Zé Cipriano",
+  "license": "MIT"
+}
