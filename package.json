@@ -4,5 +4,8 @@
   "description": "Electron tutorial",
   "main": "main.js",
   "author": "Zé Cipriano",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  }
 }
