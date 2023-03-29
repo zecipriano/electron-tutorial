@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Electron tutorial",
   "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "author": "Zé Cipriano",
   "license": "MIT",
   "devDependencies": {
